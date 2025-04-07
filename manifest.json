@@ -28,10 +28,9 @@
         "webNavigation",
         "scripting",
         "storage"
-      ],
-
+    ],
     "host_permissions": [
-      "http://*/*",
-      "https://*/*"
+        "http://*/*",
+        "https://*/*"
     ]
 }

@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
         urlsList.forEach(url => {
           const li = document.createElement('li');
           li.textContent = url;
-          console.log("Loaded URLs: ", url);
+        //   console.log("Loaded URLs: ", url);
           urlsContainer.appendChild(li);
         });
       } else {
