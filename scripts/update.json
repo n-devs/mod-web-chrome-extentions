@@ -4,7 +4,7 @@
     "scripts": [
         {
             "domain": "www.up-manga.com",
-            "path": ""
+            "path": "https://raw.githubusercontent.com/n-devs/mod-web-chrome-extentions/refs/heads/main/scripts/www.up-manga.com.js"
         }
     ]
 }
