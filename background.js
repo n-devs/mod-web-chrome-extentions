@@ -8,7 +8,7 @@ function update() {
       },
     },
     function (result) {
-      fetch("https://example.com/update.json").then((response) => {
+      fetch("https://raw.githubusercontent.com/n-devs/mod-web-chrome-extentions/refs/heads/main/scripts/update.json").then((response) => {
         const config = response.json();
         const defaultConfig = result.config;
 
