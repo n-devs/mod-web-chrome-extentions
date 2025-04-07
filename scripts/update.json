@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "description": "Update script for the project",
+    "scripts": [
+        {
+            "domain": "www.up-manga.com",
+            "path": ""
+        }
+    ]
+}
